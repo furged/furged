@@ -10,8 +10,6 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, C/C++, Java
-
 **ML/DL:** PyTorch • Scikit-learn • HuggingFace Transformers • NumPy • Pandas • NLTK
 
 **Specializations:**
@@ -19,7 +17,15 @@
 - Deep Learning: Transformer inference (DistilBERT), CNN architectures, Fourier Neural Operators
 - Model Reliability: Confidence analysis, disagreement modeling, meta-classification
 
-**Tools:** Git • Linux • Jupyter • VS Code
+## 💻 Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## 📊 GitHub Stats
 
