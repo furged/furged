@@ -1,4 +1,4 @@
-# Hi there, I'm Anushka 👋
+# Hi there, I'm Anushka 
 
 **Machine Learning Engineer** building intelligent systems and exploring the intersection of classical ML and deep learning.
 
@@ -23,9 +23,13 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furged&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furged&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furged&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furged&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
 
 ## 🎯 Recent Projects
 
