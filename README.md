@@ -4,9 +4,9 @@
 
 ## What I'm Working On
 
-**Neural Surrogate Modeling for PDEs** — Designing CNN and Fourier Neural Operator architectures in PyTorch to approximate numerical PDE solvers. Focused on resolution-invariant mappings and rollout stability.
+**Neural Surrogate Modeling for PDEs** — Designing CNN and Fourier Neural Operator architectures in PyTorch to approximate numerical PDE solvers. Focused on resolution-invariant mappings and rollout stability. [→ Repo](https://github.com/furged/neural-surrogate)
 
-**Meta-Model for Transformer Failure Prediction** — Built a reliability prediction system combining TF-IDF baselines, DistilBERT, and VADER sentiment analysis. Engineered cross-model disagreement features to predict transformer failures on imbalanced datasets (67K+ samples, <5% failure rate). [→ Repo](link)
+**Meta-Model for Transformer Failure Prediction** — Built a reliability prediction system combining TF-IDF baselines, DistilBERT, and VADER sentiment analysis. Engineered cross-model disagreement features to predict transformer failures on imbalanced datasets (67K+ samples, <5% failure rate). [→ Repo](https://github.com/furged/meta-model-failure-prediction)
 
 ## Tech Stack
 
@@ -39,9 +39,9 @@
 
 ## Recent Projects
 
-**Connect Four** — Two-player game with efficient 4-directional win detection using NumPy board representation and Pygame rendering. [→ Repo](link)
+**Connect Four** — Two-player game with efficient 4-directional win detection using NumPy board representation and Pygame rendering. [→ Repo](https://github.com/furged/Connect-four-game)
 
-**Pong Game** — Real-time game engine with 100 FPS update loop, collision physics, and live scoring system. [→ Repo](link)
+**Pong Game** — Real-time game engine with 100 FPS update loop, collision physics, and live scoring system. [→ Repo](https://github.com/furged/Pong-game)
 
 ## Let's Connect
 
