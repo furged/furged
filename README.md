@@ -33,10 +33,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=furged&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furged&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-
 ## Recent Projects
 
 **Connect Four** — Two-player game with efficient 4-directional win detection using NumPy board representation and Pygame rendering. [→ Repo](https://github.com/furged/Connect-four-game)
