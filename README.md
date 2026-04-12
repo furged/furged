@@ -1,74 +1,43 @@
-<h1 align="center">Anushka Shakya</h1>
-<p align="center">
-AI/ML Student | Model Reliability | Data Science
-</p>
+# Hi there, I'm Anushka 👋
+
+**Machine Learning Engineer** building intelligent systems and exploring the intersection of classical ML and deep learning.
+
+## 🔬 What I'm Working On
+
+**Neural Surrogate Modeling for PDEs** — Designing CNN and Fourier Neural Operator architectures in PyTorch to approximate numerical PDE solvers. Focused on resolution-invariant mappings and rollout stability.
+
+**Meta-Model for Transformer Failure Prediction** — Built a reliability prediction system combining TF-IDF baselines, DistilBERT, and VADER sentiment analysis. Engineered cross-model disagreement features to predict transformer failures on imbalanced datasets (67K+ samples, <5% failure rate). [→ Repo](link)
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, C/C++, Java
+
+**ML/DL:** PyTorch • Scikit-learn • HuggingFace Transformers • NumPy • Pandas • NLTK
+
+**Specializations:**
+- Classical ML: Logistic Regression, TF-IDF, ROC-AUC optimization, class imbalance handling
+- Deep Learning: Transformer inference (DistilBERT), CNN architectures, Fourier Neural Operators
+- Model Reliability: Confidence analysis, disagreement modeling, meta-classification
+
+**Tools:** Git • Linux • Jupyter • VS Code
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furged&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furged&layout=compact&theme=dark&hide_border=true)
+
+## 🎯 Recent Projects
+
+**Connect Four** — Two-player game with efficient 4-directional win detection using NumPy board representation and Pygame rendering. [→ Repo](link)
+
+**Pong Game** — Real-time game engine with 100 FPS update loop, collision physics, and live scoring system. [→ Repo](link)
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushkashakyacs@gmail.com)
 
 ---
 
-## About Me
-- B.Tech CSE (AI) @ KIET (2024–2028)
-- Focused on **Machine Learning + Model Reliability**
-- Interested in understanding *why models fail*, not just building them
-
----
-
-## What I’m Working On
-- Meta-model to predict **Transformer failure cases**
-- Neural Surrogate Modeling for PDEs (PyTorch, FNO)
-
----
-
-## Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,git,github,linux" />
-</p>
-
-**ML & DL**
-- TF-IDF + Logistic Regression
-- DistilBERT (Transformers)
-- PyTorch (CNN, FNO - in progress)
-
-**Libraries**
-- NumPy, Pandas, Scikit-learn
-- Matplotlib, Seaborn
-- HuggingFace Transformers, NLTK
-
----
-
-## Key Project
-
-### Meta-Model for Transformer Failure Prediction
-- Built baseline TF-IDF + Logistic Regression on **67K samples**
-- Achieved:
-  - **84.4% Accuracy**
-  - **0.93 ROC-AUC**
-  - **0.946 PR-AUC**
-- Combined predictions from:
-  - DistilBERT
-  - VADER
-  - TF-IDF model
-- Designed meta-features:
-  - Confidence scores
-  - Cross-model disagreement
-- Solved class imbalance (<5% failure cases)
-- Showed: **confidence alone fails, disagreement helps**
-
----
-
-## Other Projects
-- Connect Four (Pygame + NumPy)
-- Pong Game (Turtle Graphics)
-
----
-
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furged&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## Current Focus
-- Deep Learning (PyTorch)
-- Model Evaluation & Failure Analysis
-- Building ML systems, not just models
+*Building reliable ML systems, one experiment at a time.*
