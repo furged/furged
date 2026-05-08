@@ -1,6 +1,6 @@
 # Hey, I'm Anushka 
 
-> Machine Learning Engineer exploring the edge between classical ML and deep neural architectures
+> Machine Learning Enthusiast exploring the edge between classical ML and deep neural architectures
 
 I build systems that predict when other models fail, approximate PDEs with neural surrogates, and occasionally automate my coffee routine with Python scripts
 
