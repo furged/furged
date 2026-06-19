@@ -1,4 +1,8 @@
 <div align="center">
+  <h1>🕷️</h1>
+</div>
+
+<div align="center">
   
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=F74C4C&center=true&vCenter=true&random=false&width=800&height=60&lines=ANUSHKA;Your+Friendly+Neighborhood+ML+Engineer;Professional+Overfitter;Fourier+Operator+Wrangler;Neural+Surrogate+Apologist;Recovering+PyTorch+Addict" alt="Typing SVG" />
 
@@ -9,9 +13,9 @@
 I'm an ML engineer who spends more time debugging data leaks than actually training models. I build neural surrogates for PDEs, meta-models to catch transformer hallucinations, and occasionally win at Connect Four (because my models refuse to give me that satisfaction).
 
 I believe in:
-- **Honest models** – if your 95% accuracy is lying, I'll find out
-- **Physics over data** – bake the laws into the loss, save on training
-- **Knowing when to quit** – sometimes a logistic regression beats a transformer
+🕷️ **Honest models** – if your 95% accuracy is lying, I'll find out
+🕷️ **Physics over data** – bake the laws into the loss, save on training
+🕷️ **Knowing when to quit** – sometimes a logistic regression beats a transformer
 
 When I'm not wrestling with PyTorch, I'm reading papers I'll forget, playing chess badly, or rewatching Spider-Verse for the soundtrack.
 
@@ -54,9 +58,9 @@ When I'm not wrestling with PyTorch, I'm reading papers I'll forget, playing che
 Building CNN-based surrogates to replace expensive numerical solvers. Fourier Neural Operators sound elegant until you realize they **completely ignore high-frequency turbulence** like it doesn't exist.
 
 **The daily struggle:**
-- Error accumulation hits like compound interest (but in a bad way)
-- Resolution invariance works in papers, fails in practice
-- Spent 72 hours debugging a shape mismatch. It was one transposed dimension.
+🕷️ Error accumulation hits like compound interest (but in a bad way)
+🕷️ Resolution invariance works in papers, fails in practice
+🕷️ Spent 72 hours debugging a shape mismatch. It was one transposed dimension.
 
 ```python
 if model.accuracy > 0.95:
@@ -78,10 +82,10 @@ if model.accuracy > 0.95:
 When your transformer is confidently wrong, how do you know? Built a meta-classifier that predicts DistilBERT failures using cross-model disagreement patterns.
 
 **The numbers don't lie:**
-- 0.93 ROC-AUC on failure prediction
-- VADER + TF-IDF + Transformer disagreement = red flags everywhere
-- Logistic regression beat neural nets (classic – simple works)
-- Confidence scores are lying liars who lie
+🕷️ 0.93 ROC-AUC on failure prediction
+🕷️ VADER + TF-IDF + Transformer disagreement = red flags everywhere
+🕷️ Logistic regression beat neural nets (classic – simple works)
+🕷️ Confidence scores are lying liars who lie
 
 [🔍 See the research →](https://github.com/furged/meta-model-failure-prediction)
 
@@ -114,10 +118,10 @@ When your transformer is confidently wrong, how do you know? Built a meta-classi
 ## LET'S CONNECT
 
 I genuinely want to hear about:
-- Your worst model failure (I'll top it)
-- Why your 99% accuracy model is probably suspect
-- Neural operators, UQ, or any paper you're obsessed with
-- Projects that have nothing to do with ML
+🕷️ Your worst model failure (I'll top it)
+🕷️ Why your 99% accuracy model is probably suspect
+🕷️ Neural operators, UQ, or any paper you're obsessed with
+🕷️ Projects that have nothing to do with ML
 
 <div align="center">
 
