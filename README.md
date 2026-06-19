@@ -4,6 +4,43 @@
 
 </div>
 
+## ME, IN A NUTSHELL
+
+I'm an ML engineer who spends more time debugging data leaks than actually training models. I build neural surrogates for PDEs, meta-models to catch transformer hallucinations, and occasionally win at Connect Four (because my models refuse to give me that satisfaction).
+
+I believe in:
+- **Honest models** – if your 95% accuracy is lying, I'll find out
+- **Physics over data** – bake the laws into the loss, save on training
+- **Knowing when to quit** – sometimes a logistic regression beats a transformer
+
+When I'm not wrestling with PyTorch, I'm reading papers I'll forget, playing chess badly, or rewatching Spider-Verse for the soundtrack.
+
+---
+
+## THE TOOLBOX
+
+### Core Weapons
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+### ML Ecosystem
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square)
+
+### Tools of the Trade
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
 
 ## WHAT I'M BREAKING RIGHT NOW
 
