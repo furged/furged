@@ -110,3 +110,23 @@ When your transformer is confidently wrong, how do you know? Built a meta-classi
 100 FPS physics, collision detection, scoring system. My first ever project. I keep it around to remind myself where I started – and that I once wrote code without `torch` imports.
 
 [🏓 Relive the past →](https://github.com/furged/Pong-game)
+
+## LET'S CONNECT
+
+I genuinely want to hear about:
+- Your worst model failure (I'll top it)
+- Why your 99% accuracy model is probably suspect
+- Neural operators, UQ, or any paper you're obsessed with
+- Projects that have nothing to do with ML
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushkashakyacs@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/furged)
+
+---
+
+*"I don't have imposter syndrome, I have 'my model is overfitting' syndrome."*
+
+</div>
