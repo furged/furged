@@ -4,18 +4,23 @@
 
 </div>
 
-<div align="center">
-  
-[![GitHub furged](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/furged)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushkashakyacs@gmail.com)
+## WHAT I'M BREAKING RIGHT NOW
 
-</div>
+### NEURAL SURROGATE FOR PDES – *Where high frequencies go to die*
 
----
+![Status](https://img.shields.io/badge/status-🔥%20On%20Fire-red?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FNO](https://img.shields.io/badge/Fourier_Neural_Operator-FF6B6B?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-<div align="center">
-  
-*"With great model accuracy comes great responsibility... to check your test set distribution."*
+Building CNN-based surrogates to replace expensive numerical solvers. Fourier Neural Operators sound elegant until you realize they **completely ignore high-frequency turbulence** like it doesn't exist.
 
-</div>
+**The daily struggle:**
+- Error accumulation hits like compound interest (but in a bad way)
+- Resolution invariance works in papers, fails in practice
+- Spent 72 hours debugging a shape mismatch. It was one transposed dimension.
+
+```python
+if model.accuracy > 0.95:
+    print("This is definitely overfitting")
+    # It always is
