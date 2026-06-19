@@ -64,7 +64,7 @@ if model.accuracy > 0.95:
     # It always is
 ```
 
-[⚡ Explore the chaos →](https://github.com/furged/neural-surrogate-ds)
+[⚡ Explore the chaos →](https://github.com/furged/neuro-surrogate-ds)
 
 ---
 
