@@ -1,136 +1,168 @@
 <div align="center">
-  <h1>🕷️</h1>
-</div>
 
-<div align="center">
-  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=F74C4C&center=true&vCenter=true&random=false&width=800&height=60&lines=ANUSHKA;Your+Friendly+Neighborhood+ML+Engineer;Professional+Overfitter;Fourier+Operator+Wrangler;Neural+Surrogate+Apologist;Recovering+PyTorch+Addict" alt="Typing SVG" />
+# 🕷️
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=F74C4C&center=true&vCenter=true&width=800&height=60&lines=ANUSHKA;Your+Friendly+Neighborhood+ML+Engineer" alt="Typing SVG" />
 
 </div>
 
-## ME, IN A NUTSHELL
+## ABOUT ME
 
-I'm an ML engineer who spends more time debugging data leaks than actually training models. I build neural surrogates for PDEs, meta-models to catch transformer hallucinations, and occasionally win at Connect Four (because my models refuse to give me that satisfaction).
+I'm a Computer Science student interested in machine learning, backend development, and building reliable AI systems.
 
-I believe in:
-🕷️ **Honest models** – if your 95% accuracy is lying, I'll find out
-🕷️ **Physics over data** – bake the laws into the loss, save on training
-🕷️ **Knowing when to quit** – sometimes a logistic regression beats a transformer
+I enjoy working across the entire pipeline — from training models and analyzing failures to building APIs, dashboards, and applications around them.
 
-When I'm not wrestling with PyTorch, I'm reading papers I'll forget, playing chess badly, or rewatching Spider-Verse for the soundtrack.
+Most of my projects start with questions like:
+
+* Can we predict when a model is going to fail?
+* Can neural networks replace expensive simulations?
+* Can we trust a model that's 99% confident?
+
+The answer is usually *"not without running one more experiment."*
+
+Currently exploring AI reliability, scientific machine learning, FastAPI, and turning ML projects into products people can actually use.
 
 ---
 
-## THE TOOLBOX
+## TECH STACK
 
-### Core Weapons
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square)
 
-### ML Ecosystem
+### Machine Learning
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square)
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square)
 
-### Tools of the Trade
+### Backend
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square)
+![REST\_API](https://img.shields.io/badge/REST_API-6B7280?style=flat-square)
 
+### Tools
 
-## WHAT I'M BREAKING RIGHT NOW
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square)
 
-### NEURAL SURROGATE FOR PDES – *Where high frequencies go to die*
+---
 
-![Status](https://img.shields.io/badge/status-🔥%20On%20Fire-red?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![FNO](https://img.shields.io/badge/Fourier_Neural_Operator-FF6B6B?style=flat-square)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+## FEATURED PROJECTS
 
-Building CNN-based surrogates to replace expensive numerical solvers. Fourier Neural Operators sound elegant until you realize they **completely ignore high-frequency turbulence** like it doesn't exist.
+### Sentinel AI
 
-**The daily struggle:**
-🕷️ Error accumulation hits like compound interest (but in a bad way)
-🕷️ Resolution invariance works in papers, fails in practice
-🕷️ Spent 72 hours debugging a shape mismatch. It was one transposed dimension.
+*Confidence is a lie. Disagreement is truth.*
+
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square)
+
+A reliability-focused system that predicts transformer failures using uncertainty signals, cross-model disagreement, and meta-learning.
+
+**Highlights**
+
+* 0.87 Recall on transformer failure detection
+* DistilBERT + VADER + TF-IDF pipeline
+* Adversarial robustness analysis
+* Real-time diagnostic dashboard
 
 ```python
-if model.accuracy > 0.95:
-    print("This is definitely overfitting")
-    # It always is
+failure_risk = entropy + disagreement + uncertainty
 ```
 
-[⚡ Explore the chaos →](https://github.com/furged/neuro-surrogate-ds)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/furged/meta-model-failure-prediction)
 
 ---
 
-### META-MODEL FOR TRANSFORMER FAILURES – *Confidence is a lie, disagreement is truth*
+### Neural Surrogate Modeling
 
-![Status](https://img.shields.io/badge/status-✅%20Actually%20Working-brightgreen?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+*Where high frequencies go to die.*
 
-When your transformer is confidently wrong, how do you know? Built a meta-classifier that predicts DistilBERT failures using cross-model disagreement patterns.
+![Status](https://img.shields.io/badge/Status-Research-blue?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square)
+![FNO](https://img.shields.io/badge/Fourier_Neural_Operator-FF6B6B?style=flat-square)
 
-**The numbers don't lie:**
-🕷️ 0.93 ROC-AUC on failure prediction
-🕷️ VADER + TF-IDF + Transformer disagreement = red flags everywhere
-🕷️ Logistic regression beat neural nets (classic – simple works)
-🕷️ Confidence scores are lying liars who lie
+Replacing traditional PDE solvers with neural surrogates for faster simulation of the 2D Heat Equation.
 
-[🔍 See the research →](https://github.com/furged/meta-model-failure-prediction)
+**Highlights**
 
----
+* Fourier Neural Operator implementation
+* Stable multi-step rollouts
+* Resolution-independent inference
+* ~100× speedup over traditional solvers
 
-## PLAYGROUND – *Because not everything has to be serious*
+```python
+u_next = model(u_current)
+```
 
-### Connect Four – *I just wanted to win at something*
-
-![Status](https://img.shields.io/badge/status-🎮%20Finished-blue?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-00A8E8?style=flat-square)
-
-6×7 board, 60 FPS rendering, 4-directional win detection. Built because I missed the feeling of winning – and my models weren't giving me that.
-
-[🎲 Play with code →](https://github.com/furged/Connect-four-game)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/furged/neuro-surrogate-ds)
 
 ---
 
-### Pong – *Nostalgia that refuses to die*
+### AI Pong Lab
 
-![Status](https://img.shields.io/badge/status-🏓%20Retro-green?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-00A8E8?style=flat-square)
+*Teaching a neural network to play Pong felt easier than learning frontend.*
 
-100 FPS physics, collision detection, scoring system. My first ever project. I keep it around to remind myself where I started – and that I once wrote code without `torch` imports.
+![Status](https://img.shields.io/badge/Status-Finished-success?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square)
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square)
 
-[🏓 Relive the past →](https://github.com/furged/Pong-game)
+A behavioral cloning system trained on gameplay demonstrations and deployed directly in the browser.
+
+**Highlights**
+
+* 10,000+ gameplay frames collected
+* ~85% action prediction accuracy
+* Browser-based inference
+* Live confidence visualization
+
+```python
+action = model.predict(game_state)
+```
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/furged/Pong-game)
+
+---
+
+## CURRENTLY BUILDING
+
+🕷️ Turning Sentinel AI into a full product.
+
+🕷️ Learning more backend engineering than my ML comfort zone would prefer.
+
+🕷️ Exploring how far AI systems can be pushed before they start lying confidently.
+
+---
 
 ## LET'S CONNECT
 
-I genuinely want to hear about:
-🕷️ Your worst model failure (I'll top it)
-🕷️ Why your 99% accuracy model is probably suspect
-🕷️ Neural operators, UQ, or any paper you're obsessed with
-🕷️ Projects that have nothing to do with ML
+I genuinely enjoy talking about:
 
-<div align="center">
+* AI systems and model reliability
+* Backend engineering
+* Scientific machine learning
+* Weird project ideas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushkashakyacs@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/furged)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/anushka-shakya-profile)
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:anushkashakyacse@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/furged)
 
 ---
 
-*"I don't have imposter syndrome, I have 'my model is overfitting' syndrome."*
+*"The model works. The metrics look good. I still don't trust it."*
 
 </div>
