@@ -6,7 +6,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;👾 I work on machine learning, backend development, and AI systems.
 
-&nbsp;&nbsp;&nbsp;&nbsp;⚙️ Most of my projects involve model evaluation, APIs, and tools built around machine learning.
+
 
 <br>
 <br>
