@@ -1,24 +1,18 @@
-<table>
-<tr>
-<td width="40%" align="center">
+<img align="left" src="spider.gif#gh-dark-mode-only" width="250" alt="Spider">
 
-<img src="spider.gif" width="300" alt="Pixel Laptop">
+&nbsp;&nbsp;&nbsp;&nbsp; **Hey!**
 
-</td>
+&nbsp;&nbsp;&nbsp;&nbsp;🕷️ I'm **Anushka**.
 
-<td width="60%" valign="top">
+&nbsp;&nbsp;&nbsp;&nbsp;👾 I work on machine learning, backend development, and AI systems.
 
-## Hey!
+&nbsp;&nbsp;&nbsp;&nbsp;⚙️ Most of my projects involve model evaluation, APIs, and tools built around machine learning.
 
-🦀 I'm **Anushka**.
+<br>
+<br>
+<br>
+<br>
 
-🧠 I work on machine learning, backend development, and AI systems.
-
-⚙️ Most of my projects involve model evaluation, scientific ML, APIs, and tools built around machine learning.
-
-</td>
-</tr>
-</table>
 
 ## Tech Stack
 
