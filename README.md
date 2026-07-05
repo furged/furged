@@ -1,11 +1,24 @@
-Hey!
+<table>
+<tr>
+<td width="40%" align="center">
 
-🦀 I'm Anushka.
+<img src="spider.gif" width="300" alt="Pixel Laptop">
+
+</td>
+
+<td width="60%" valign="top">
+
+## Hey!
+
+🦀 I'm **Anushka**.
 
 🧠 I work on machine learning, backend development, and AI systems.
 
-⚙️ Most of my projects involve model evaluation, scientific ML, APIs, or tools built around machine learning.
+⚙️ Most of my projects involve model evaluation, scientific ML, APIs, and tools built around machine learning.
 
+</td>
+</tr>
+</table>
 
 ## Tech Stack
 
