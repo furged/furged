@@ -1,168 +1,95 @@
-<div align="center">
+Hey!
 
-# 🕷️
+🦀 I'm Anushka.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=F74C4C&center=true&vCenter=true&width=800&height=60&lines=ANUSHKA;Your+Friendly+Neighborhood+ML+Engineer" alt="Typing SVG" />
+🧠 I work on machine learning, backend development, and AI systems.
 
-</div>
+⚙️ Most of my projects involve model evaluation, scientific ML, APIs, or tools built around machine learning.
 
-## ABOUT ME
 
-I'm a Computer Science student interested in machine learning, backend development, and building reliable AI systems.
+## Tech Stack
 
-I enjoy working across the entire pipeline — from training models and analyzing failures to building APIs, dashboards, and applications around them.
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+#### ML & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+#### Web Dev
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-6B7280?style=flat)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+#### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-Most of my projects start with questions like:
 
-* Can we predict when a model is going to fail?
-* Can neural networks replace expensive simulations?
-* Can we trust a model that's 99% confident?
-
-The answer is usually *"not without running one more experiment."*
-
-Currently exploring AI reliability, scientific machine learning, FastAPI, and turning ML projects into products people can actually use.
-
----
-
-## TECH STACK
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square)
-
-### Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square)
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square)
-
-### Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square)
-![REST\_API](https://img.shields.io/badge/REST_API-6B7280?style=flat-square)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square)
-
----
-
-## FEATURED PROJECTS
+## PROJECTS
 
 ### Sentinel AI
 
-*Confidence is a lie. Disagreement is truth.*
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square)
+Predicts when transformer models are likely to make incorrect predictions by combining uncertainty estimation with disagreement between multiple models.
 
-A reliability-focused system that predicts transformer failures using uncertainty signals, cross-model disagreement, and meta-learning.
+- DistilBERT-based classifier
+- Confidence and entropy analysis
+- Failure prediction pipeline
+- Web interface for diagnostics
 
-**Highlights**
-
-* 0.87 Recall on transformer failure detection
-* DistilBERT + VADER + TF-IDF pipeline
-* Adversarial robustness analysis
-* Real-time diagnostic dashboard
-
-```python
-failure_risk = entropy + disagreement + uncertainty
-```
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/furged/meta-model-failure-prediction)
-
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/furged/meta-model-failure-prediction)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-live-demo-link.com](https://huggingface.co/spaces/furged/sentinal-ai))
 ---
 
 ### Neural Surrogate Modeling
 
-*Where high frequencies go to die.*
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Fourier Neural Operator](https://img.shields.io/badge/Fourier_Neural_Operator-FF6B6B?style=flat)
+![Scientific ML](https://img.shields.io/badge/Scientific_ML-4B8BBE?style=flat)
 
-![Status](https://img.shields.io/badge/Status-Research-blue?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square)
-![FNO](https://img.shields.io/badge/Fourier_Neural_Operator-FF6B6B?style=flat-square)
+Neural surrogate model for solving the 2D Heat Equation using a Fourier Neural Operator as an alternative to traditional PDE solvers.
 
-Replacing traditional PDE solvers with neural surrogates for faster simulation of the 2D Heat Equation.
+- Fourier Neural Operator implementation
+- Multi-step autoregressive prediction
+- Resolution-independent inference
+- Heat equation simulation
 
-**Highlights**
-
-* Fourier Neural Operator implementation
-* Stable multi-step rollouts
-* Resolution-independent inference
-* ~100× speedup over traditional solvers
-
-```python
-u_next = model(u_current)
-```
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/furged/neuro-surrogate-ds)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/furged/neuro-surrogate-ds)
 
 ---
 
-### AI Pong Lab
+## 2026 Goals (maybe)
 
-*Teaching a neural network to play Pong felt easier than learning frontend.*
+- [ ] Build Code Crisis
+- [ ] Learn JavaScript and React
+- [ ] Learn R (to add more pain in my life)
+- [ ] Contribute to open source
+- [ ] Ship more projects
 
-![Status](https://img.shields.io/badge/Status-Finished-success?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square)
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square)
+## Let's Connect
 
-A behavioral cloning system trained on gameplay demonstrations and deployed directly in the browser.
-
-**Highlights**
-
-* 10,000+ gameplay frames collected
-* ~85% action prediction accuracy
-* Browser-based inference
-* Live confidence visualization
-
-```python
-action = model.predict(game_state)
-```
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/furged/Pong-game)
-
----
-
-## CURRENTLY BUILDING
-
-🕷️ Turning Sentinel AI into a full product.
-
-🕷️ Learning more backend engineering than my ML comfort zone would prefer.
-
-🕷️ Exploring how far AI systems can be pushed before they start lying confidently.
-
----
-
-## LET'S CONNECT
-
-I genuinely enjoy talking about:
-
-* AI systems and model reliability
-* Backend engineering
-* Scientific machine learning
-* Weird project ideas
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/anushka-shakya-profile)
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:anushkashakyacse@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/furged)
-
----
-
-*"The model works. The metrics look good. I still don't trust it."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anushka-shakya-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushkashakyacse@gmail.com)
 
 </div>
