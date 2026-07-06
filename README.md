@@ -1,20 +1,10 @@
-<img align="left" src="spider.gif#gh-dark-mode-only" width="250" alt="Spider">
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Hey!**
 
-&nbsp;&nbsp;&nbsp;&nbsp;🕷️ I'm **Anushka**.
+**Hey!**
 
-&nbsp;&nbsp;&nbsp;&nbsp;👾 I work on machine learning, backend development, and AI systems.
+🕷️ I'm **Anushka**.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<br>
-<br>
+👾 I work on machine learning, backend development, and AI systems.
 
 ## Tech Stack
 
@@ -68,7 +58,7 @@ Predicts when transformer models are likely to make incorrect predictions by com
 - Web interface for diagnostics
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/furged/meta-model-failure-prediction)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-live-demo-link.com](https://huggingface.co/spaces/furged/sentinal-ai))
+[![Live Demo](https://img.shields.io/badge/Live_Demo-yellow?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/furged/sentinal-ai)
 ---
 
 ### Neural Surrogate Modeling
