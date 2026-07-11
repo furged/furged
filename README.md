@@ -81,4 +81,5 @@ Neural surrogate model for solving the 2D Heat Equation using a Fourier Neural O
 [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:anushkashakyacse@gmail.com)
 [![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=plastic&logo=huggingface&logoColor=black)](https://huggingface.co/furged)
 
+![](https://komarev.com/ghpvc/?username=furged)
 </div>
