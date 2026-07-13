@@ -1,10 +1,10 @@
 
 
-**Hey!**
+#### **Hey!**
 
 🕷️ I'm **Anushka**.
 
-👾 I work on machine learning, backend development, and AI systems.
+👾 I work on machine learning, local LLM applications, and AI systems.
 
 ---
 
