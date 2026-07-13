@@ -75,6 +75,9 @@ Neural surrogate model for solving the 2D Heat Equation using a Fourier Neural O
 [![Repository](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github&logoColor=white)](https://github.com/furged/neuro-surrogate-ds)
 
 ---
+
+[![Anushka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=furged&theme=github-dark&hide_border=true)](https://github.com/furged)
+
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/anushka-shakya-profile)
