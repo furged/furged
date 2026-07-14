@@ -44,6 +44,9 @@
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=plastic&logo=fedora&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white)
+
+---
+
 [![Anushka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=furged&theme=github-dark&hide_border=true)](https://github.com/furged)
 
 ## Let's Connect
