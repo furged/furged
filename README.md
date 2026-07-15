@@ -12,9 +12,11 @@
 
 | Project | What it does | Tech | Links |
 |---------|--------------|------|-------|
-| **Sentinel AI** | Estimates the reliability of transformer predictions using uncertainty estimation and ensemble disagreement to identify likely model failures before deployment. | PyTorch, Transformers, Flask | [Repository](https://github.com/furged/meta-model-failure-prediction)  [Demo](https://huggingface.co/spaces/furged/sentinal-ai) |
+| **Sentinel AI** | Estimates the reliability of transformer predictions using uncertainty estimation and ensemble disagreement to identify likely model failures before deployment. | PyTorch, Transformers, Flask | [Repository](https://github.com/furged/meta-model-failure-prediction) · [Demo](https://huggingface.co/spaces/furged/sentinal-ai) |
 | **Neural Surrogate Modeling** | Learns solutions to the 2D Heat Equation using a Fourier Neural Operator, providing a fast neural alternative to traditional PDE solvers. | PyTorch, Fourier Neural Operator, Scientific ML | [Repository](https://github.com/furged/neuro-surrogate-ds) |
-
+| **Browser RAG** *(In Progress)* | A browser-native Retrieval-Augmented Generation (RAG) system built from scratch with local PDF ingestion, semantic retrieval, and persistent vector storage using IndexedDB—without a backend or external APIs. | React, Vite, Transformers.js, Supabase GTE-Small, PDF.js, IndexedDB | [Repository](https://github.com/furged/browser-rag) |
+| **Pong AI Lab** | An experimental behavioral cloning project where a neural network learns to play Pong from human gameplay data. Includes gameplay data collection, TensorFlow.js inference, and real-time AI behavior visualization. | JavaScript, TensorFlow.js, Python, TensorFlow, HTML5 Canvas | [Repository](https://github.com/furged/Pong-game) |
+| **Connect 4** | A two-player Connect Four game built while experimenting with Pygame, featuring mouse-based gameplay, board rendering, and win detection using NumPy. | Python, Pygame, NumPy | [Repository](https://github.com/furged/Connect-four-game) |
 ---
 ## Tech Stack
 
