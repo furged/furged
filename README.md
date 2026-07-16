@@ -15,7 +15,7 @@
 | --------------------- | ----- |
 | • **Sentinel AI** – Estimates transformer reliability using uncertainty estimation and ensemble disagreement. · [Repo](https://github.com/furged/meta-model-failure-prediction) · [Demo](https://huggingface.co/spaces/furged/sentinal-ai)<br><br>• **Neural Surrogate Modeling** – Fourier Neural Operator for solving the 2D Heat Equation. · [Repo](https://github.com/furged/neuro-surrogate-ds)<br><br>• **Native RAG** *(In Progress)* – Browser-native Retrieval-Augmented Generation with local embeddings, PDF ingestion, and IndexedDB vector storage. · [Repo](https://github.com/furged/browser-rag) | • **Connect 4** – Classic Connect Four built with Pygame and NumPy. · [Repo](https://github.com/furged/Connect-four-game)<br><br>• **Pong** – Browser-based Pong game built with HTML5 Canvas and JavaScript. · [Repo](https://github.com/furged/Pong-game) · [Demo](https://furged-pong.vercel.app/) |
 
-## 🌀 Stuff I Use
+#### 🌀 Stuff I Use
 
 | | |
 | --- | --- |
@@ -32,7 +32,7 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=furged&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
-## 🌀 Let's Connect
+#### 🌀 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/anushka-shakya-profile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:anushkashakyacse@gmail.com)
