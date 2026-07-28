@@ -28,9 +28,7 @@
 
 [![Anushka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=furged&theme=github-dark&hide_border=true)](https://github.com/furged)
 
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=furged&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
+
 
 #### 🌀 Let's Connect
 
