@@ -1,6 +1,5 @@
 <p align="center">
   <img src="github-banner.jpg" width="100%">
-  <img src="name1.png" width="50%">
 </p>
 
 ####Hey!
