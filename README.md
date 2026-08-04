@@ -1,8 +1,7 @@
-
-
-#### **Hey!**
-
-🕷️ I'm **Anushka**.
+<p align="center">
+  <img src=".png" alt="Anushka Shakya Banner" width="100%">
+  <img src=".png" alt="Anushka Shakya Banner" width="100%">
+</p>
 
 👾 I work on machine learning, local LLM applications, and AI systems.
 
