@@ -1,6 +1,6 @@
 <p align="center">
   <img src="github-banner.jpg" width="100%">
-  <img src="name.png" width="100%">
+  <img src="name1.png" width="50%">
 </p>
 
 👾 I work on machine learning, local LLM applications, and AI systems.
