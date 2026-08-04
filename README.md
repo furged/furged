@@ -3,6 +3,10 @@
   <img src="name1.png" width="50%">
 </p>
 
+####Hey!
+
+🕷️ I'm Anushka.
+
 👾 I work on machine learning, local LLM applications, and AI systems.
 
 ---
@@ -27,7 +31,7 @@
 
 [![Anushka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=furged&theme=github-dark&hide_border=true)](https://github.com/furged)
 
-
+---
 
 #### 🌀 Let's Connect
 
