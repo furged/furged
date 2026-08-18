@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="github-banner.jpg" width="100%">
-</p>
+
 
 #### Hey!
 
